@@ -1,0 +1,31 @@
+.banner-card{
+    position: relative;
+}
+.c1{
+    position: absolute;
+    top: 10%;
+    color: #ffffff;
+    font-family: signika;
+}
+.headinglast{
+    color: green;
+
+}
+
+
+.formcontents{
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    font-family: 'poppins', sans-serif;
+}
+.input-control input:focus{
+    outline: 0;
+}
+.input-control.success input {
+    background-color: #09c372;
+}
+.input-control.error input{
+    border-color: #ff3860;
+}
+.input-control .error {
+    color: #ff3860;
+}
